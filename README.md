@@ -1,2 +1,5 @@
 # flame_sensor
-Este algoritmo capta mediante un sensor de flama y un Arduino Nano si hay o no fuego en el ambiente.
+Algoritmo para conexion entre sensor de flama y arduino nano,
+Utilizamos el pin 2 digital para obtener los datos del sensor.
+La variable Flame sera la constante que nos indicara si hay presencia
+o ausencia de fuego.
